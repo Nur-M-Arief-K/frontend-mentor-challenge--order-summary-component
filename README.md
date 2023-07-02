@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site url](https://nur-m-arief-k.github.io/frontend-mentor-challenge--order-summary-component/)
 
 ## My process
 
